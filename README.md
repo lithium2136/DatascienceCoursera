@@ -1,3 +1,2 @@
-Datascience
-Coursera
+DatascienceCoursera
 ===================
